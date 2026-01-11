@@ -14,8 +14,3 @@ Actuellement j'apprend le dev d'application avec Kotlin/Jetpack Compose, je vais
 ![](https://github-readme-stats.vercel.app/api?username=KoThek64&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KoThek64&theme=shadow_blue&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KoThek64&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=KoThek64&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
