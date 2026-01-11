@@ -1,5 +1,7 @@
 # 💫 About Me:
-Actuellement j'apprend le dev d'application avec Kotlin/Jetpack Compose, je vais bientôt me lancer dans Flutter/Dart et approfondir mes connaissances en PHP, JS et C#
+
+Je suis Un étudiant en BUT Informatique au sein de l'IUT de Nantes, je cherche un stage du 13 avril au 21 juin pour approfondir mes connaissances et valider ma deuxième année.
+Actuellement j'apprend le dev d'application avec Kotlin/Jetpack Compose, je vais bientôt me lancer dans Flutter/Dart et approfondir mes connaissances en PHP, JS et C#.
 
 
 ## 🌐 Socials:
