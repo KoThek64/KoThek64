@@ -7,7 +7,6 @@ Actuellement, j'approfondis mes compétences en développement d'applications av
 ## Réseaux
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mattys-lachaise-b16617360/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/KoThek64)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mattys.contact@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%232563EB.svg?logo=google-chrome&logoColor=white)](https://portfolio-mattys.netlify.app)
 
