@@ -2,7 +2,7 @@
 
 Étudiant en BUT Informatique à l'IUT de Nantes, je suis passionné par le développement et toujours à la recherche de nouveaux défis techniques.
 
-Actuellement, j'approfondis mes compétences en développement d'applications avec Kotlin et Flutter/Dart, tout en explorant le développement web avec PHP et JavaScript.
+Actuellement, j'approfondis mes compétences en développement d'applications avec Kotlin et Flutter/Dart, tout en explorant le développement web avec PHP et JavaScript, et en administrant une infrastructure HomeLab auto-hébergée.
 
 ## Réseaux
 
@@ -23,6 +23,7 @@ Actuellement, j'approfondis mes compétences en développement d'applications av
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%234479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Frameworks et librairies
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -51,6 +52,9 @@ Actuellement, j'approfondis mes compétences en développement d'applications av
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-%237F3FBF.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![ProxmoxVE](https://img.shields.io/badge/ProxmoxVE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
 
 ### Déploiement
