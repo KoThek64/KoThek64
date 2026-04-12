@@ -63,11 +63,3 @@ Actuellement, j'approfondis mes compétences en développement d'applications av
 
 ### Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-## Statistiques GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=KoThek64&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=KoThek64&theme=shadow_blue&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KoThek64&theme=shadow_blue&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
